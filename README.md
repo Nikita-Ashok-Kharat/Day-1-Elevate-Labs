@@ -3,7 +3,7 @@ SQL Developer Internship - Day 1 Task
 
 <h1>Hostel Management Database Schema</h1>
 
-This project contains the SQL scripts to design a simple Hostel Management System database. The database includes tables for managing students, hostels, rooms, staff, mess, visitors, furniture, fees, and hostel rules.
+This task contains the SQL scripts to design a simple Hostel Management System database. The database includes tables for managing students, hostels, rooms, staff, mess, visitors, furniture, fees, and hostel rules.
 
 <h4>Key Features:</h4>
 Manage hostel and room allocation for students <br>
